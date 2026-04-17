@@ -47,16 +47,12 @@ $$
 Y=X\cos\varphi-\sin u\sin\varphi
 $$
 
-Chuyển vế:
-
 $$
-Y-X\cos\varphi=-\sin u\sin\varphi
+\Leftrightarrow Y-X\cos\varphi=-\sin u\sin\varphi
 $$
 
-Bình phương hai vế:
-
 $$
-\left(Y-X\cos\varphi\right)^2=\sin^2u\,\sin^2\varphi
+\Leftrightarrow \left(Y-X\cos\varphi\right)^2=\sin^2u\,\sin^2\varphi
 $$
 
 Do $\sin^2u=1-\cos^2u=1-X^2$, ta được:
@@ -65,10 +61,8 @@ $$
 \left(Y-X\cos\varphi\right)^2=\sin^2\varphi\,(1-X^2)
 $$
 
-Khai triển và rút gọn:
-
 $$
-X^2-2\cos\varphi\,XY+Y^2=\sin^2\varphi
+\Leftrightarrow X^2-2\cos\varphi\,XY+Y^2=\sin^2\varphi
 $$
 
 Thế lại $X=x/x_0$, $Y=y/y_0$:
